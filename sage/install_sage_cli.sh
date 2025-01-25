@@ -5,4 +5,4 @@ sudo npm install -g pnpm@latest-10
 
 # Restart server
 
-cargo install --git https://github.com/xch-dev/sage sage-cli --rev v0.9.4
+cargo install --git https://github.com/xch-dev/sage sage-cli --rev v0.9.5
